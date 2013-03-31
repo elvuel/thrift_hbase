@@ -66,7 +66,6 @@ module ThriftHbase
           args.push(formatted_column_family_names)
         when :with_scan
           args.push(options.fetch(:t_scan))
-          args.push(formatted_column_family_names)
         when :open_with_stop
           args.push(options[:start_row] || '')
           args.push(options[:stop_row] || '')
