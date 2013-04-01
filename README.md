@@ -33,10 +33,15 @@ WIP
 * for file in spec/*_spec.rb; do ruby $file; done *
 
 http://hbase.apache.org/book/thrift.html
+
 http://hbase.apache.org/book/client.filter.html
+
 http://blog.monkeyz.eu/2012/05/
+
 http://hbase.apache.org/apidocs/org/apache/hadoop/hbase/thrift/doc-files/Hbase.html
+
 http://archive.cloudera.com/cdh4/cdh/4/hbase/apidocs/org/apache/hadoop/hbase/thrift/generated/package-summary.html
+
 http://people.apache.org/~stack/hbase-0.92.2-candidate-0/hbase-0.92.2/docs/apidocs/org/apache/hadoop/hbase/thrift/ThriftServer.HBaseHandler.html#getRowsWithColumns(java.nio.ByteBuffer, java.util.List, java.util.List)
 
 HBASE 0.94.5
